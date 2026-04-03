@@ -1,4 +1,20 @@
 {
-  "code": "#8812",
-  "playlistUrl": "https://raw.githubusercontent.com/Ravi787812/ipplay/refs/heads/main/jtv.m3u"
+  "code": "#1212",
+  "playlists": [
+    {
+      "name": "🔥 Premium Live TV",
+      "url": "https://raw.githubusercontent.com/Ravi787812/ipplay/refs/heads/main/jtv.m3u",
+      "logo": "https://th.bing.com/th/id/OIP.QSwlj7ClWS1hm4FLa4WpgwHaGB?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "name": "🎬 Blockbuster Movies",
+      "url": "https://example.com/movies.json",
+      "logo": "https://example.com/movies-icon.png"
+    },
+    {
+      "name": "📺 Exclusive Web Series",
+      "url": "https://example.com/series.json",
+      "logo": "https://example.com/series-icon.jpg"
+    }
+  ]
 }
