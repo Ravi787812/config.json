@@ -3,12 +3,12 @@
   "playlists": [
     {
       "name": "Premium Live TV",
-      "url": "https://raw.githubusercontent.com/Ravi787812/ipplay/refs/heads/main/jtv.m3u",
+      "url": "https://netx.streamstar18.workers.dev/zio1",
       "logo": "https://play-lh.googleusercontent.com/nB9r04Z3hpl-iA4dChI2ontKxsJKjPi1N-WsXrMngMRH3Js31M3lKpdO0gZqvfsIQK-x"
     },
     {
       "name": "sony liv",
-      "url": "https://raw.githubusercontent.com/Sflex0719/SonGharLive/refs/heads/main/SL.m3u",
+      "url": "https://netx.streamstar18.workers.dev/soni",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"
     },
     {
@@ -23,7 +23,7 @@
     },
      {
       "name": "jstar live ",
-      "url": "https://netx.streamstar18.workers.dev/zio1",
+      "url": "https://github.com/alex4528x/m3u/raw/refs/heads/main/jtv.m3u",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png"
     }
   ]
